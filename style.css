@@ -1,0 +1,237 @@
+header {
+    background-color: #045276;
+    width: 100%;
+}
+
+header ul li {
+    margin: 20px;
+    font-size: 17px;
+}
+  
+nav.navbar .nav-link {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header img {
+    width: 100px;
+}
+
+.carouselExampleIndicators {
+    width: 100%; 
+    margin: auto; 
+  }  
+
+.paises {
+    background-color: #ecebeb;
+    padding: 50px 20px 50px 20px;   
+}
+.caja {
+    width: 100%; 
+    height: 600px; 
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 25px;
+}
+
+.caja img {
+    width: 350px;
+    padding: 8px; 
+}
+
+.caja h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 8px 20px;
+    margin: 100;
+    background-color: #045276;
+    color: #ffffff;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 50px;
+}
+
+.caja p {
+    font-size: 15px;
+    color: black;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; 
+    padding: 15px 15px 0 15px; 
+}
+
+.videos{
+    background-color: #ecebeb;
+    padding: 0px 20px 40px 20px;
+}
+
+footer {
+    background-color: #045276;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+footer p {
+    font-size: 14px;
+    color: #ffffff;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 8px 20px;
+    margin: 100;
+    background-color: #045276;
+    color: #ffffff;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 50px;
+}
+
+.caja2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 20px 0px 20px;
+}
+.caja2 p{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+
+.caja2 h2{
+    font-size: 40px;
+}
+
+.caja3 {
+    width: 100%; 
+    height: 400px; 
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 25px;
+}
+
+.caja3 p {
+    font-size: 17px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; 
+    padding: 15px 15px 0 15px; 
+    }
+.caja3 img{
+    width: 150px;
+    padding: 8px;
+}
+.nosotros{
+    display: flex;
+    justify-content: center;
+    background-color: #ecebeb;
+}
+
+.caja4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px 10px 20px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: #24bdc7;
+}
+
+.caja4 h3{
+    color: #045276;
+    font-weight: bold;
+}
+
+.caja4 img {
+    max-width: 100%;
+    border-radius: 25px;
+    padding: 0px 0px 10px 0px;
+}
+
+.caja4 p {
+    font-size: 17px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    padding: 15px 15px 0 15px;
+}
+
+.colombia{
+    width: 100%;
+    background-color: #ecebeb;
+}
+.colombia img{
+    width: 100%;
+}
+
+.caja5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 20px 0px 20px;
+}
+
+.caja5 h3{
+    color: #045276;
+    font-weight: bold;
+}
+
+.caja5 p {
+    font-size: 17px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    padding: 0px 15px 0 15px;
+}
+
+.caja6{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 20px 10px 20px;
+    
+}
+
+.colombia1{
+    background-color: #ffffff;
+}
+.caja6 h3{
+    color: #045276;
+    font-weight: bold;
+}
+
+.caja6 p {
+    font-size: 17px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    padding: 0px 15px 0 15px;
+}
+
+.caja6 ul li{
+    font-size: 17px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    padding: 0px 15px 0 15px;
+}
+
+.caja6 img{
+    padding: 10px 0px 20px 0px; 
+}
